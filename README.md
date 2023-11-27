@@ -1,6 +1,6 @@
 # Sogeti Technical Assignment
 
-##Overview
+## Overview
 
 This project has been created in orer to solve an automattion technical assignment, given by Sogeti.
 The **tests** folder contains the test scripts, required to solve all automation tasks.
@@ -9,6 +9,6 @@ When downloading, please keep all these files within the same directory.
 
 This README.md file further contains details regarding environment requirements, along with instructions on how to execute the included test scripts.
 
-##Installation requirements
+## Installation requirements
 
-##Execution instructions
+## Execution instructions
